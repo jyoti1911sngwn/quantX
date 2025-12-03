@@ -19,3 +19,5 @@ Parenthesized expression cannot be empty
 [00:02:15.673] Server  LOG      ✓ Compiled in 132ms
 [00:04:03.942] Server  LOG      ✓ Compiled in 177ms
 [00:21:50.005] Server  LOG      ✓ Compiled in 410ms
+[00:29:12.928] Server  LOG      ✓ Compiled in 4.8s
+[00:29:22.074] Server  LOG      ✓ Compiled in 839ms
