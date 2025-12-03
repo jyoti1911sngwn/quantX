@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///Users/jyotisangwan/Desktop/quantX/app/%28root%29/page.tsx"],"sourcesContent":["import { Button } from \"@/components/ui/button\"\n\nconst Home = () => {\n  return (\n    <div className=\"flex min-h-screen home-wrapper\">\n      <section className=\"grid w-full gap-8 home-section\"></section>\n    </div>\n  )\n}\n\nexport default Home\n"],"names":[],"mappings":";;;;;;AAEA,MAAM,OAAO;IACX,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;YAAQ,WAAU;;;;;;;;;;;AAGzB;uCAEe"}}]
+}
