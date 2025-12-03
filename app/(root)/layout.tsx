@@ -1,34 +1,13 @@
-import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
-import "./globals.css";
+import React from 'react'
+import Header from '../../components/Header'
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
-
-export const metadata: Metadata = {
-  title: "QuantifyX",
-  description: "Track real-time stock prices, get personalized alerts, explore detailed company insights and market trends with QuantifyX.",
-};
-
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
+const layout = ({children} : {children : React.ReactNode}) => {
   return (
-    <html lang="en" className="dark">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
-      </body>
-    </html>
-  );
+    <main className='min-h-screen text-gray-400'>
+        <Header/>
+        <div className='container py-10'>{children}</div>
+    </main>
+  )
 }
+
+export default layout

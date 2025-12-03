@@ -1,253 +1,186 @@
-[00:00:04.399] Server  LOG      ✓ Ready in 3.2s
-[00:00:09.672] Server  LOG      ○ Compiling / ...
-[00:00:19.919] Browser WARN    Image with src "http://localhost:3000/vercel.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:02:11.174] Server  LOG      ✓ Compiled in 117ms
-[00:02:11.912] Browser ERROR   ./app/page.tsx:4:10
-Parsing ecmascript source code failed
-  2 |
-  3 | export default function Home() {
-> 4 |   return (
-    |          ^
-> 5 |
-    | ^
-> 6 |   );
-    | ^^^^
-  7 | }
-  8 |
+[00:00:03.531] Server  LOG      ✓ Ready in 2.5s
+[00:00:06.798] Server  LOG      ○ Compiling / ...
+[00:00:11.888] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:12.031] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:03:11.958] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:03:11.958] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:03:22.461] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:03:22.461] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:04:43.074] Server  LOG      ✓ Compiled in 146ms
+[00:04:49.907] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:04:49.907] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:05:08.880] Server  LOG      ✓ Compiled in 95ms
+[00:10:13.003] Server  LOG      ✓ Compiled in 787ms
+[00:10:36.876] Server  LOG      ✓ Compiled in 123ms
+[00:10:57.746] Server  LOG      ✓ Compiled in 82ms
+[00:11:01.771] Server  LOG      ✓ Compiled in 143ms
+[00:11:05.844] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:11:05.844] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered HTML didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
 
-Parenthesized expression cannot be empty
-[00:02:15.673] Server  LOG      ✓ Compiled in 132ms
-[00:04:03.942] Server  LOG      ✓ Compiled in 177ms
-[00:21:50.005] Server  LOG      ✓ Compiled in 410ms
-[00:29:12.928] Server  LOG      ✓ Compiled in 4.8s
-[00:29:22.074] Server  LOG      ✓ Compiled in 839ms
-[00:35:09.887] Server  ERROR    ⨯ ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
 
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
 
+https://react.dev/link/hydration-mismatch
 
-https://nextjs.org/docs/messages/module-not-found
+  ...
+    <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+      <SegmentViewNode type="layout" pagePath="(root)/lay...">
+        <SegmentTrieNode>
+        <script>
+        <script>
+        <script>
+        <layout>
+          <main className="min-h-scre...">
+            <Header>
+              <header className="sticky top...">
+                <div className="container ...">
+                  <LinkComponent>
+                  <nav className="hidden sm:...">
+                    <NavItems>
+                      <ul className="flex flex-...">
+                        <li>
+                          <Link href="/" className={"hover:te..."}>
+                            <svg ref={null} xmlns="http://www..." width={24} height={24} viewBox="0 0 24 24" fill="none" ...>
+                              <path>
+                              <path>
++                             <div>
+                        ...
+            ...
 
-
-[00:35:10.910] Browser ERROR   ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
-
-https://nextjs.org/docs/messages/module-not-found
-[00:35:11.909] Browser ERROR   ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
-
-https://nextjs.org/docs/messages/module-not-found
-[00:35:11.909] Browser ERROR   ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
-
-https://nextjs.org/docs/messages/module-not-found
-[00:35:13.127] Server  ERROR    ⨯ ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
-
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:35:13.271] Server  ERROR    ⨯ ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
-
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:35:13.327] Server  ERROR    ⨯ ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
-
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:35:13.381] Server  ERROR    ⨯ ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
-
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:35:13.414] Server  ERROR    ⨯ ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
-
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:35:13.441] Browser ERROR   ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
-
-https://nextjs.org/docs/messages/module-not-found
-[00:35:13.441] Browser ERROR   ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
-
-https://nextjs.org/docs/messages/module-not-found
-[00:35:13.441] Browser ERROR   ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
-
-https://nextjs.org/docs/messages/module-not-found
-[00:35:13.441] Browser ERROR   ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
-
-https://nextjs.org/docs/messages/module-not-found
-[00:35:13.441] Browser ERROR   ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
-
-https://nextjs.org/docs/messages/module-not-found
-[00:35:13.468] Server  ERROR    ⨯ ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
-
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:35:14.103] Browser ERROR   uncaughtError: Error: ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
-
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:35:14.909] Browser ERROR   ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
-
-https://nextjs.org/docs/messages/module-not-found
-[00:35:14.909] Browser ERROR   ./app/(root)/layout.tsx:3:1
-Module not found: Can't resolve './globals.css'
-  1 | import type { Metadata } from "next";
-  2 | import { Geist, Geist_Mono } from "next/font/google";
-> 3 | import "./globals.css";
-    | ^^^^^^^^^^^^^^^^^^^^^^^
-  4 |
-  5 | const geistSans = Geist({
-  6 |   variable: "--font-geist-sans",
-
-https://nextjs.org/docs/messages/module-not-found
+[00:11:05.844] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:11:16.472] Server  LOG      ✓ Compiled in 78ms
+[00:12:06.179] Server  LOG      ✓ Compiled in 179ms
+[00:12:14.405] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:12:14.405] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:13:35.230] Server  LOG      ✓ Compiled in 181ms
+[00:13:40.687] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:13:40.687] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:21:41.663] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:21:41.663] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:21:50.468] Server  LOG      ✓ Compiled in 112ms
+[00:21:55.006] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:21:55.006] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:21:59.507] Server  LOG      ✓ Compiled in 51ms
+[00:22:11.583] Server  LOG      ✓ Compiled in 125ms
+[00:22:28.383] Server  LOG      ✓ Compiled in 103ms
+[00:22:32.051] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:22:32.051] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:23:59.415] Server  LOG      ✓ Compiled in 316ms
+[00:24:04.516] Server  LOG      ✓ Compiled in 141ms
+[00:27:00.853] Server  LOG      ✓ Compiled in 287ms
+[00:28:06.599] Server  LOG      ✓ Compiled in 119ms
+[00:30:02.891] Server  LOG      ✓ Compiled in 189ms
+[00:30:03.367] Server  ERROR    ⨯ ReferenceError: UserDropdown is not defined
+[00:30:03.691] Browser ERROR   uncaughtError: ReferenceError: UserDropdown is not defined
+[00:32:21.131] Server  LOG      ✓ Compiled in 31ms
+[00:32:21.730] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:37:24.385] Server  LOG      ✓ Compiled in 284ms
+[00:38:26.122] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:38:26.124] Server  LOG      ✓ Compiled in 877ms
+[00:38:28.416] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:38:28.416] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:40:39.910] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:40:39.915] Server  LOG      ✓ Compiled in 527ms
+[00:40:42.693] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:40:59.117] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:40:59.762] Server  LOG      ✓ Compiled in 193ms
+[00:41:01.685] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:41:02.055] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:41:28.470] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:41:29.106] Server  LOG      ✓ Compiled in 151ms
+[00:41:30.472] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:41:30.472] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:43:23.027] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:43:23.048] Server  LOG      ✓ Compiled in 642ms
+[00:43:24.878] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:43:24.878] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:48:14.860] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:48:14.861] Server  LOG      ✓ Compiled in 189ms
+[00:48:17.268] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:48:17.268] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:50:44.181] Server  LOG      ✓ Compiled in 137ms
+[00:50:44.183] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:50:46.411] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:50:46.560] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:51:04.131] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:51:04.804] Server  LOG      ✓ Compiled in 947ms
+[00:51:05.059] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:51:05.689] Server  LOG      ✓ Compiled in 3ms
+[00:51:05.984] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:51:05.984] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:51:23.338] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:51:23.360] Server  LOG      ✓ Compiled in 145ms
+[00:51:25.646] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:51:25.646] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:52:42.891] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:52:42.916] Server  LOG      ✓ Compiled in 153ms
+[00:52:45.687] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:52:48.485] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:53:54.520] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:53:54.543] Server  LOG      ✓ Compiled in 547ms
+[00:53:56.150] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:53:56.150] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:54:45.460] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:54:45.839] Server  LOG      ✓ Compiled in 194ms
+[00:54:47.696] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:55:24.667] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:55:25.068] Server  LOG      ✓ Compiled in 70ms
+[00:55:25.357] Server  ERROR    ⨯ ReferenceError: handleSignout is not defined
+[00:55:26.772] Browser ERROR   uncaughtError: ReferenceError: handleSignout is not defined
+[00:55:37.518] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:55:37.522] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:55:37.522] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:55:37.536] Server  LOG      ✓ Compiled in 131ms
+[00:55:39.605] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:55:39.605] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:56:36.864] Server  LOG      ✓ Compiled in 180ms
+[00:56:36.866] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:56:39.686] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:56:56.135] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:56:56.560] Server  LOG      ✓ Compiled in 120ms
+[00:56:58.701] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:57:54.882] Server  LOG      ✓ Compiled in 746ms
+[00:57:54.895] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:57:55.365] Server  ERROR    ⨯ ReferenceError: LogOut is not defined
+[00:57:57.737] Browser ERROR   uncaughtError: ReferenceError: LogOut is not defined
+[00:58:40.239] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:58:40.239] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:58:40.239] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:58:40.271] Server  LOG      ✓ Compiled in 561ms
+[00:58:42.237] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:58:42.237] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:59:21.486] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:59:21.962] Server  LOG      ✓ Compiled in 75ms
+[00:59:23.690] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:00:22.349] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./components/userDropdown.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:00:22.367] Server  LOG      ✓ Compiled in 200ms
+[01:00:24.685] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:00:29.049] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading

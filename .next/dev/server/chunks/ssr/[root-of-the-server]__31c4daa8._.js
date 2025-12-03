@@ -72,7 +72,7 @@ var __TURBOPACK__imported__module__$5b$next$5d2f$internal$2f$font$2f$google$2f$g
 ;
 ;
 const metadata = {
-    title: "QuantifyX",
+    title: "Signalist",
     description: "Track real-time stock prices, get personalized alerts, explore detailed company insights and market trends with QuantifyX."
 };
 function RootLayout({ children }) {
