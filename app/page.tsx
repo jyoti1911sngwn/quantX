@@ -6,7 +6,6 @@ const Home = () => {
       <Button>
         click
       </Button>
-      Home
     </div>
   )
 }
