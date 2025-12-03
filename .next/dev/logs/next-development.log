@@ -21,3 +21,233 @@ Parenthesized expression cannot be empty
 [00:21:50.005] Server  LOG      ✓ Compiled in 410ms
 [00:29:12.928] Server  LOG      ✓ Compiled in 4.8s
 [00:29:22.074] Server  LOG      ✓ Compiled in 839ms
+[00:35:09.887] Server  ERROR    ⨯ ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:35:10.910] Browser ERROR   ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+https://nextjs.org/docs/messages/module-not-found
+[00:35:11.909] Browser ERROR   ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+https://nextjs.org/docs/messages/module-not-found
+[00:35:11.909] Browser ERROR   ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+https://nextjs.org/docs/messages/module-not-found
+[00:35:13.127] Server  ERROR    ⨯ ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:35:13.271] Server  ERROR    ⨯ ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:35:13.327] Server  ERROR    ⨯ ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:35:13.381] Server  ERROR    ⨯ ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:35:13.414] Server  ERROR    ⨯ ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:35:13.441] Browser ERROR   ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+https://nextjs.org/docs/messages/module-not-found
+[00:35:13.441] Browser ERROR   ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+https://nextjs.org/docs/messages/module-not-found
+[00:35:13.441] Browser ERROR   ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+https://nextjs.org/docs/messages/module-not-found
+[00:35:13.441] Browser ERROR   ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+https://nextjs.org/docs/messages/module-not-found
+[00:35:13.441] Browser ERROR   ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+https://nextjs.org/docs/messages/module-not-found
+[00:35:13.468] Server  ERROR    ⨯ ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:35:14.103] Browser ERROR   uncaughtError: Error: ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:35:14.909] Browser ERROR   ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+https://nextjs.org/docs/messages/module-not-found
+[00:35:14.909] Browser ERROR   ./app/(root)/layout.tsx:3:1
+Module not found: Can't resolve './globals.css'
+  1 | import type { Metadata } from "next";
+  2 | import { Geist, Geist_Mono } from "next/font/google";
+> 3 | import "./globals.css";
+    | ^^^^^^^^^^^^^^^^^^^^^^^
+  4 |
+  5 | const geistSans = Geist({
+  6 |   variable: "--font-geist-sans",
+
+https://nextjs.org/docs/messages/module-not-found
