@@ -1,0 +1,21 @@
+[00:00:04.399] Server  LOG      ✓ Ready in 3.2s
+[00:00:09.672] Server  LOG      ○ Compiling / ...
+[00:00:19.919] Browser WARN    Image with src "http://localhost:3000/vercel.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:02:11.174] Server  LOG      ✓ Compiled in 117ms
+[00:02:11.912] Browser ERROR   ./app/page.tsx:4:10
+Parsing ecmascript source code failed
+  2 |
+  3 | export default function Home() {
+> 4 |   return (
+    |          ^
+> 5 |
+    | ^
+> 6 |   );
+    | ^^^^
+  7 | }
+  8 |
+
+Parenthesized expression cannot be empty
+[00:02:15.673] Server  LOG      ✓ Compiled in 132ms
+[00:04:03.942] Server  LOG      ✓ Compiled in 177ms
+[00:21:50.005] Server  LOG      ✓ Compiled in 410ms
