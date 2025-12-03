@@ -455,6 +455,10 @@
     margin-block: calc(var(--spacing) * 1);
   }
 
+  .mb-5 {
+    margin-bottom: calc(var(--spacing) * 5);
+  }
+
   .ml-auto {
     margin-left: auto;
   }
@@ -528,6 +532,10 @@
 
   .h-10 {
     height: calc(var(--spacing) * 10);
+  }
+
+  .h-full {
+    height: 100%;
   }
 
   .h-px {
@@ -731,6 +739,11 @@
     padding-left: calc(var(--spacing) * 8);
   }
 
+  .text-2xl {
+    font-size: var(--text-2xl);
+    line-height: var(--tw-leading, var(--text-2xl--line-height));
+  }
+
   .text-base {
     font-size: var(--text-base);
     line-height: var(--tw-leading, var(--text-base--line-height));
@@ -754,6 +767,11 @@
   .font-medium {
     --tw-font-weight: var(--font-weight-medium);
     font-weight: var(--font-weight-medium);
+  }
+
+  .font-semibold {
+    --tw-font-weight: var(--font-weight-semibold);
+    font-weight: var(--font-weight-semibold);
   }
 
   .tracking-widest {
@@ -1124,6 +1142,12 @@
   @media (min-width: 80rem) {
     .xl\:col-span-1 {
       grid-column: span 1 / span 1;
+    }
+  }
+
+  @media (min-width: 80rem) {
+    .xl\:col-span-2 {
+      grid-column: span 2 / span 2;
     }
   }
 

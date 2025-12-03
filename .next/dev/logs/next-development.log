@@ -197,3 +197,19 @@ Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
 [01:52:43.458] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
 [01:52:43.458] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:53:33.219] Server  LOG      ✓ Compiled in 176ms
+[01:54:01.363] Server  LOG      ✓ Compiled in 81ms
+[01:55:47.372] Server  LOG      ✓ Compiled in 345ms
+[01:55:47.980] Browser ERROR   uncaughtError: NotFoundError: Failed to execute 'removeChild' on 'Node': The node to be removed is not a child of this node.
+[01:56:02.818] Browser WARN    Image with src "/assets/icons/logo.svg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:56:02.818] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:56:40.061] Server  LOG      ✓ Compiled in 464ms
+[01:56:53.997] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:57:00.775] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:58:26.317] Server  LOG      ✓ Compiled in 487ms
+[01:58:53.956] Server  LOG      ✓ Compiled in 287ms
+[01:59:02.075] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[02:00:55.642] Server  LOG      ✓ Compiled in 172ms
+[02:01:25.643] Server  LOG      ✓ Compiled in 90ms
+[02:05:55.472] Server  LOG      ✓ Compiled in 209ms
