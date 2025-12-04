@@ -3,3 +3,18 @@
 [00:02:55.422] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
 [00:03:21.281] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
 [00:10:12.427] Server  LOG      ✓ Compiled in 536ms
+[08:48:59.141] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:54:30.435] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:55:06.510] Server  LOG      ✓ Compiled in 1918ms
+[08:56:30.025] Server  ERROR    ⨯ ReferenceError: children is not defined
+[08:56:30.147] Server  ERROR    ⨯ ReferenceError: children is not defined
+[08:56:30.252] Server  ERROR    ⨯ ReferenceError: children is not defined
+[08:56:31.087] Server  ERROR    ⨯ ReferenceError: children is not defined
+[08:56:31.094] Server  LOG      ✓ Compiled in 0ms
+[08:56:34.511] Browser ERROR   uncaughtError: ReferenceError: children is not defined
+[08:56:34.647] Browser ERROR   uncaughtError: ReferenceError: children is not defined
+[08:57:22.457] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[08:57:22.457] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[08:57:24.854] Server  LOG      ✓ Compiled in 0ms
+[08:58:44.301] Server  LOG      ✓ Compiled in 116ms
+[08:58:44.575] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
