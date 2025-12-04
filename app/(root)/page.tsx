@@ -33,7 +33,7 @@ const Home = () => {
       <section className="grid w-full gap-8 home-section">
         <div className="h-full md:col-span-1 xl:col-span-1">
           <TradingViewWidget
-          title="Market Overview"
+          title="Timeline Stories"
           scriptUrl={`${scriptURL}timeline.js`}
           config={
             TOP_STORIES_WIDGET_CONFIG
@@ -44,7 +44,7 @@ const Home = () => {
         </div>
         <div className="h-full md-col-span xl:col-span-2">
           <TradingViewWidget
-          title="Stock Overview"
+          title="Market Quotes"
           scriptUrl={`${scriptURL}market-quotes.js`}
           config={
             MARKET_DATA_WIDGET_CONFIG

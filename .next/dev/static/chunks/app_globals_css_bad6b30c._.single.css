@@ -562,10 +562,6 @@
     width: calc(var(--spacing) * 10);
   }
 
-  .w-56 {
-    width: calc(var(--spacing) * 56);
-  }
-
   .w-auto {
     width: auto;
   }
