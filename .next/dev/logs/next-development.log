@@ -6292,3 +6292,16 @@ Did you mean to import set?
 All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
 [11:33:47.252] Server  LOG      ✓ Compiled in 122ms
 [11:33:50.322] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[23:04:41.789] Server  LOG        Reload env: .env
+[23:04:46.666] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[23:04:46.731] Server  LOG      ✓ Compiled in 2ms
+[23:04:50.294] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[23:05:02.084] Server  LOG        Reload env: .env
+[23:05:03.363] Server  LOG      ✓ Compiled in 661ms
+[23:05:03.412] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[23:05:03.529] Server  LOG      ✓ Compiled in 0ms
+[23:05:06.297] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[23:06:02.044] Server  LOG        Reload env: .env
+[23:06:03.276] Server  LOG      ✓ Compiled in 605ms
+[23:06:03.390] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[23:06:06.301] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
