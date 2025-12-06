@@ -3133,3 +3133,1830 @@ Import traces:
     ./app/(auth)/sign-up/page.tsx [Server Component]
 [00:35:12.328] Server  LOG      ✓ Compiled in 391ms
 [00:35:22.541] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:36:08.581] Server  LOG      ✓ Compiled in 1786ms
+[00:36:08.618] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:36:09.909] Server  LOG      ✓ Compiled in 0ms
+[00:36:18.626] Server  ERROR    ⨯ ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+
+./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+[00:36:18.873] Server  ERROR    ⨯ ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+
+./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+[00:36:18.910] Server  ERROR    ⨯ ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+
+./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+[00:36:18.975] Server  ERROR    ⨯ ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+
+./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+[00:36:19.082] Server  ERROR    ⨯ ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+
+./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+[00:36:19.162] Server  ERROR    ⨯ ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+
+./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+[00:36:19.295] Server  ERROR    ⨯ ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+
+./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+[00:36:19.412] Server  ERROR    ⨯ ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+
+./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+[00:36:19.504] Server  ERROR    ⨯ ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+
+./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+[00:36:19.818] Server  ERROR    ⨯ ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+
+./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+[00:36:19.889] Server  ERROR    ⨯ ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+
+./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+[00:36:19.961] Server  ERROR    ⨯ ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+
+./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+[00:36:20.025] Server  ERROR    ⨯ ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+
+./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+[00:36:20.130] Server  ERROR    ⨯ ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+
+./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.261] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.262] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.262] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.262] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.262] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.262] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.262] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.262] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.262] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.262] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.262] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:20.415] Server  ERROR    ⨯ ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+
+./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+[00:36:21.727] Browser ERROR   uncaughtError: Error: ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+
+[00:36:22.563] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:22.563] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:22.563] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:22.563] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:26.541] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:26.541] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmailFunction?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:27.293] Server  LOG      ✓ Compiled in 483ms
+[00:36:27.557] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:27.557] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:31.547] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:31.547] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:36.540] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:36.540] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:41.843] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-client] (ecmascript).
+Did you mean to import singUpWithEmail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:41.843] Browser ERROR   ./app/(auth)/sign-up/page.tsx:7:1
+Export signUpWithEmail doesn't exist in target module
+   5 | import SelectField from '@/components/forms/SelectField'
+   6 | import { Button } from '@/components/ui/button'
+>  7 | import { signUpWithEmail } from '@/lib/actions/auth.actions'
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 | import { INVESTMENT_GOALS, PREFERRED_INDUSTRIES, RISK_TOLERANCE_OPTIONS } from '@/lib/constants'
+   9 | import { useRouter } from 'next/navigation'
+  10 | import React from 'react'
+
+The export signUpWithEmail was not found in module [project]/lib/actions/auth.actions.ts [app-ssr] (ecmascript).
+Did you mean to import singUpWithEmail?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/(auth)/sign-up/page.tsx [Client Component Browser]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/(auth)/sign-up/page.tsx [Client Component SSR]
+    ./app/(auth)/sign-up/page.tsx [Server Component]
+[00:36:42.331] Server  LOG      ✓ Compiled in 338ms
+[00:36:48.656] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:36:52.871] Browser WARN    Image with src "/assets/images/dashboard.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:37:11.462] Server  LOG     Signing up user: "Jyoti Sangwan"
+[00:37:15.037] Browser LOG     Sign up result: {"data":{"token":"RSeiMHxXG5SEN1n2A4IwNtuZI3LjHoN3","user":{"createdAt":"2025-12-06T09:07:00.050Z","email":"sangwanjyoti717@gmail.com","emailVerified":false,"id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan","updatedAt":"2025-12-06T09:07:00.050Z"}},"succes":true}
+[00:37:43.588] Browser LOG     {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[00:37:43.588] Browser LOG     [2;38;2;124;124;124m%s[0m {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
