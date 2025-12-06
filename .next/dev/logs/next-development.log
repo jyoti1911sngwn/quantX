@@ -4960,3 +4960,6 @@ Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
 [00:37:15.037] Browser LOG     Sign up result: {"data":{"token":"RSeiMHxXG5SEN1n2A4IwNtuZI3LjHoN3","user":{"createdAt":"2025-12-06T09:07:00.050Z","email":"sangwanjyoti717@gmail.com","emailVerified":false,"id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan","updatedAt":"2025-12-06T09:07:00.050Z"}},"succes":true}
 [00:37:43.588] Browser LOG     {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
 [00:37:43.588] Browser LOG     [2;38;2;124;124;124m%s[0m {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[03:42:56.703] Server  ERROR   AIGatewayError: Error making AI request: unsuccessful status code: 403
+[03:43:35.686] Browser LOG     {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[03:43:35.686] Browser LOG     [2;38;2;124;124;124m%s[0m {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
