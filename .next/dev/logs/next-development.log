@@ -4963,3 +4963,5 @@ Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
 [03:42:56.703] Server  ERROR   AIGatewayError: Error making AI request: unsuccessful status code: 403
 [03:43:35.686] Browser LOG     {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
 [03:43:35.686] Browser LOG     [2;38;2;124;124;124m%s[0m {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[04:59:14.858] Server  ERROR    ⨯ Error: Failed to load chunk server/chunks/node_modules_nodemailer_f0e2e4c8._.js from runtime for chunk server/app/api/inngest/route.js
+[04:59:20.000] Server  ERROR    ⨯ Error: Failed to load chunk server/chunks/node_modules_nodemailer_f0e2e4c8._.js from runtime for chunk server/app/api/inngest/route.js
