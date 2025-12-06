@@ -5,3 +5,929 @@
 [00:00:37.584] Browser LOG     {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
 [00:00:37.584] Browser LOG     [2;38;2;124;124;124m%s[0m {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
 [00:00:37.584] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:04:03.148] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:04:03.937] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:04:06.199] Server  LOG      ○ Compiling /_error ...
+[00:04:10.301] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:04:16.429] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:04:21.484] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:04:26.625] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:04:31.699] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:04:36.762] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:04:41.930] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:04:46.962] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:04:52.002] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:04:57.040] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:04:57.585] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:04:57.586] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:04:57.586] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:04:57.586] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:04:57.586] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:04:57.586] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:04:57.586] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:04:57.586] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:04:57.586] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:04:57.586] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:04:57.586] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:05:02.072] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:05:02.584] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:05:07.101] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:05:07.584] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:05:12.134] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:05:12.585] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:05:17.173] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:05:17.592] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:05:22.206] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:05:22.587] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:05:27.237] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:05:27.585] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:05:32.270] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:05:32.584] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:05:37.301] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:05:37.590] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:05:42.331] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:05:42.587] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:05:47.378] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:05:47.588] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:05:52.406] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:05:52.585] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:05:57.438] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:05:57.588] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:06:02.467] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:06:03.587] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:06:07.493] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:06:08.588] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:06:12.723] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:06:13.676] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:06:17.754] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:06:18.584] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:06:22.804] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:06:23.587] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:06:23.587] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:06:27.894] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:06:29.620] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:06:32.928] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:06:33.896] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:06:38.093] Server  ERROR    ⨯ ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:06:38.585] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:06:42.622] Browser ERROR   ./lib/inngest/functions.ts:49:33
+Parsing ecmascript source code failed
+  47 | export const sendDailyNewsSummary = inngest.createFunction(
+  48 |   { id: "daily-news-summary" },
+> 49 |   [{ event: "app/daily.news" }],
+     |                                 ^
+
+Expression expected
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[00:35:47.913] Server  LOG      ✓ Compiled in 4.4s
+[00:37:20.552] Server  ERROR   [Inngest] error - SyntaxError: Failed calling `body` from serve handler when checking body for request signing as method is PUT; Unexpected end of JSON input
+[00:37:20.574] Server  ERROR   SyntaxError: Failed calling `body` from serve handler when checking body for request signing as method is PUT; Unexpected end of JSON input
+[00:55:44.815] Server  LOG        Reload env: .env
+[00:55:51.861] Browser LOG     {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[00:55:51.861] Browser LOG     [2;38;2;124;124;124m%s[0m {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[00:56:34.130] Server  LOG        Reload env: .env
+[00:56:52.417] Server  ERROR   [Inngest] error - SyntaxError: Failed calling `body` from serve handler when checking body for request signing as method is PUT; Unexpected end of JSON input
+[00:56:52.431] Server  ERROR   SyntaxError: Failed calling `body` from serve handler when checking body for request signing as method is PUT; Unexpected end of JSON input
+[00:56:53.619] Browser LOG     {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[00:56:53.619] Browser LOG     [2;38;2;124;124;124m%s[0m {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[00:56:56.401] Server  LOG        Reload env: .env
+[00:56:58.628] Browser LOG     {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[00:56:58.628] Browser LOG     [2;38;2;124;124;124m%s[0m {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[00:57:07.332] Server  LOG        Reload env: .env
+[00:57:08.780] Browser LOG     {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[00:57:08.780] Browser LOG     [2;38;2;124;124;124m%s[0m {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[00:57:46.120] Server  LOG        Reload env: .env
+[00:57:51.635] Browser LOG     {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[00:57:51.635] Browser LOG     [2;38;2;124;124;124m%s[0m {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
