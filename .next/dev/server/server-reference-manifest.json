@@ -1,5 +1,21 @@
 {
-  "node": {},
+  "node": {
+    "7fd02be2696ca5ada9f734eab964dccb96a0dd1bec": {
+      "workers": {
+        "app/(auth)/sign-up/page": {
+          "moduleId": "[project]/.next-internal/server/app/(auth)/sign-up/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true,
+          "exportedName": "singUpWithEmailFunction",
+          "filename": "lib/actions/auth.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(auth)/sign-up/page": "action-browser"
+      },
+      "filename": "lib/actions/auth.actions.ts",
+      "exportedName": "singUpWithEmailFunction"
+    }
+  },
   "edge": {},
   "encryptionKey": "yDxr2M9ltM6RVQJtsYWe1eJoTzdB8V2tW4thYTMGiwQ="
 }
