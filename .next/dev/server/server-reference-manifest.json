@@ -1,21 +1,6 @@
 {
   "node": {
-    "7ff6340b425bf9956470ee11f472830a0609cd0a7b": {
-      "workers": {
-        "app/(auth)/sign-in/page": {
-          "moduleId": "[project]/.next-internal/server/app/(auth)/sign-in/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": true,
-          "exportedName": "signInWithEmailFunction",
-          "filename": "lib/actions/auth.actions.ts"
-        }
-      },
-      "layer": {
-        "app/(auth)/sign-in/page": "action-browser"
-      },
-      "filename": "lib/actions/auth.actions.ts",
-      "exportedName": "signInWithEmailFunction"
-    },
-    "7fe852dd04f8fc5167e7e1942721b0612d844362f6": {
+    "7f876b3588f505b7f5af53949fa0398451efd9b708": {
       "workers": {
         "app/(root)/page": {
           "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
@@ -29,23 +14,8 @@
       },
       "filename": "lib/actions/auth.actions.ts",
       "exportedName": "signOut"
-    },
-    "7f216a5d5367780783927c31f3d7ed5d1366b02006": {
-      "workers": {
-        "app/(auth)/sign-up/page": {
-          "moduleId": "[project]/.next-internal/server/app/(auth)/sign-up/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
-          "async": true,
-          "exportedName": "signUpWithEmail",
-          "filename": "lib/actions/auth.actions.ts"
-        }
-      },
-      "layer": {
-        "app/(auth)/sign-up/page": "action-browser"
-      },
-      "filename": "lib/actions/auth.actions.ts",
-      "exportedName": "signUpWithEmail"
     }
   },
   "edge": {},
-  "encryptionKey": "yDxr2M9ltM6RVQJtsYWe1eJoTzdB8V2tW4thYTMGiwQ="
+  "encryptionKey": "kfWdDsly8JUjEHGK3WkxBbjBhTxihfzvVnpuDlnYZ8g="
 }

@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///Users/jyotisangwan/Desktop/quantX/app/%28auth%29/sign-in/page.tsx"],"sourcesContent":["import React from 'react'\n\nconst SignIn = () => {\n  return (\n    <>\n       <h1 className='form-title'>\n        Log In to Your Account\n        </h1>\n        \n    </>\n  )\n}\n\nexport default SignIn\n"],"names":[],"mappings":";;;;;;AAEA,MAAM,SAAS;IACb,qBACE;kBACG,cAAA,8OAAC;YAAG,WAAU;sBAAa;;;;;;;AAMlC;uCAEe"}}]
-}

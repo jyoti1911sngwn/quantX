@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 52, "column": 0}, "map": {"version":3,"sources":["file:///Users/jyotisangwan/Desktop/quantX/lib/inngest/client.ts"],"sourcesContent":["import {Inngest } from \"inngest\";\n\nexport const inngest = new Inngest({\n  id: \"Signalist\",\n  ai: {gemini : {apiKey : process.env.GEMINI_API_KEY || \"\"}},\n  key: process.env.INNGEST_PUBLIC_KEY || \"\",\n});"],"names":[],"mappings":";;;;AAAA;;AAEO,MAAM,UAAU,IAAI,6JAAO,CAAC;IACjC,IAAI;IACJ,IAAI;QAAC,QAAS;YAAC,QAAS,QAAQ,GAAG,CAAC,cAAc,IAAI;QAAE;IAAC;IACzD,KAAK,QAAQ,GAAG,CAAC,kBAAkB,IAAI;AACzC"}},
-    {"offset": {"line": 77, "column": 0}, "map": {"version":3,"sources":["file:///Users/jyotisangwan/Desktop/quantX/app/api/inngest/route.ts"],"sourcesContent":["import { inngest } from \"@/lib/inngest/client\";\nimport {serve} from \"inngest/next\";\n\nexport const {GET ,  POST , PUT} = serve({\n    client : inngest,\n    functions : []\n})"],"names":[],"mappings":";;;;;;;;AAAA;AACA;;;AAEO,MAAM,EAAC,GAAG,EAAI,IAAI,EAAG,GAAG,EAAC,GAAG,IAAA,0IAAK,EAAC;IACrC,QAAS,qIAAO;IAChB,WAAY,EAAE;AAClB"}}]
-}
