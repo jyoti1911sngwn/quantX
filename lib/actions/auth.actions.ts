@@ -6,7 +6,7 @@ import { getAuth } from "../better-auth/auth";
 import { inngest } from "../inngest/client";
 import { headers } from "next/headers";
 
-export const singUpWithEmailFunction = async ({fullName, country, email, password, investmentGoals , riskTolerance, preferredIndustry}: SignUpFormData) => {
+export const signUpWithEmail = async ({fullName, country, email, password, investmentGoals , riskTolerance, preferredIndustry}: SignUpFormData) => {
     try {
         console.log('Signing up user:', fullName);
         const auth = await getAuth();

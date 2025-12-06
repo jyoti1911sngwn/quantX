@@ -14,6 +14,36 @@
       },
       "filename": "lib/actions/auth.actions.ts",
       "exportedName": "signInWithEmailFunction"
+    },
+    "7fe852dd04f8fc5167e7e1942721b0612d844362f6": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true,
+          "exportedName": "signOut",
+          "filename": "lib/actions/auth.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "action-browser"
+      },
+      "filename": "lib/actions/auth.actions.ts",
+      "exportedName": "signOut"
+    },
+    "7f216a5d5367780783927c31f3d7ed5d1366b02006": {
+      "workers": {
+        "app/(auth)/sign-up/page": {
+          "moduleId": "[project]/.next-internal/server/app/(auth)/sign-up/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true,
+          "exportedName": "signUpWithEmail",
+          "filename": "lib/actions/auth.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(auth)/sign-up/page": "action-browser"
+      },
+      "filename": "lib/actions/auth.actions.ts",
+      "exportedName": "signUpWithEmail"
     }
   },
   "edge": {},
