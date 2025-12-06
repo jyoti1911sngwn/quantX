@@ -1069,15 +1069,11 @@ var _s = __turbopack_context__.k.signature();
 ;
 ;
 ;
-const userDropdown = ()=>{
+const userDropdown = ({ user })=>{
     _s();
     const router = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$navigation$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRouter"])();
     const handleSignOut = async ()=>{
         router.push("/sign-in");
-    };
-    const user = {
-        name: "John Doe",
-        email: "john.doe@example.com"
     };
     const handleSignout = ()=>{};
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1096,7 +1092,7 @@ const userDropdown = ()=>{
                                         src: "https://github.com/shadcn.png"
                                     }, void 0, false, {
                                         fileName: "[project]/components/userDropdown.tsx",
-                                        lineNumber: 38,
+                                        lineNumber: 34,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$avatar$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AvatarFallback"], {
@@ -1104,13 +1100,13 @@ const userDropdown = ()=>{
                                         children: user.name[0]
                                     }, void 0, false, {
                                         fileName: "[project]/components/userDropdown.tsx",
-                                        lineNumber: 39,
+                                        lineNumber: 35,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/userDropdown.tsx",
-                                lineNumber: 37,
+                                lineNumber: 33,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1120,23 +1116,23 @@ const userDropdown = ()=>{
                                     children: user.name
                                 }, void 0, false, {
                                     fileName: "[project]/components/userDropdown.tsx",
-                                    lineNumber: 44,
+                                    lineNumber: 40,
                                     columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             }, void 0, false, {
                                 fileName: "[project]/components/userDropdown.tsx",
-                                lineNumber: 43,
+                                lineNumber: 39,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/userDropdown.tsx",
-                        lineNumber: 33,
+                        lineNumber: 29,
                         columnNumber: 11
                     }, ("TURBOPACK compile-time value", void 0))
                 }, void 0, false, {
                     fileName: "[project]/components/userDropdown.tsx",
-                    lineNumber: 32,
+                    lineNumber: 28,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0)),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$dropdown$2d$menu$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuContent"], {
@@ -1153,7 +1149,7 @@ const userDropdown = ()=>{
                                                 src: "https://github.com/shadcn.png"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/userDropdown.tsx",
-                                                lineNumber: 54,
+                                                lineNumber: 50,
                                                 columnNumber: 13
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$avatar$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AvatarFallback"], {
@@ -1161,13 +1157,13 @@ const userDropdown = ()=>{
                                                 children: user.name[0]
                                             }, void 0, false, {
                                                 fileName: "[project]/components/userDropdown.tsx",
-                                                lineNumber: 55,
+                                                lineNumber: 51,
                                                 columnNumber: 13
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/userDropdown.tsx",
-                                        lineNumber: 53,
+                                        lineNumber: 49,
                                         columnNumber: 11
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1178,7 +1174,7 @@ const userDropdown = ()=>{
                                                 children: user.name
                                             }, void 0, false, {
                                                 fileName: "[project]/components/userDropdown.tsx",
-                                                lineNumber: 60,
+                                                lineNumber: 56,
                                                 columnNumber: 13
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1186,31 +1182,31 @@ const userDropdown = ()=>{
                                                 children: user.email
                                             }, void 0, false, {
                                                 fileName: "[project]/components/userDropdown.tsx",
-                                                lineNumber: 63,
+                                                lineNumber: 59,
                                                 columnNumber: 13
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/userDropdown.tsx",
-                                        lineNumber: 59,
+                                        lineNumber: 55,
                                         columnNumber: 11
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/userDropdown.tsx",
-                                lineNumber: 52,
+                                lineNumber: 48,
                                 columnNumber: 14
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/components/userDropdown.tsx",
-                            lineNumber: 51,
+                            lineNumber: 47,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$dropdown$2d$menu$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuSeparator"], {
                             className: "bg-gray-600"
                         }, void 0, false, {
                             fileName: "[project]/components/userDropdown.tsx",
-                            lineNumber: 66,
+                            lineNumber: 62,
                             columnNumber: 10
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$dropdown$2d$menu$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuItem"], {
@@ -1222,50 +1218,50 @@ const userDropdown = ()=>{
                                     children: " Logout"
                                 }, void 0, false, {
                                     fileName: "[project]/components/userDropdown.tsx",
-                                    lineNumber: 68,
+                                    lineNumber: 64,
                                     columnNumber: 11
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 "Sign Out"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/userDropdown.tsx",
-                            lineNumber: 67,
+                            lineNumber: 63,
                             columnNumber: 10
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$dropdown$2d$menu$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["DropdownMenuSeparator"], {
                             className: "hidden sm:block bg-gray-600"
                         }, void 0, false, {
                             fileName: "[project]/components/userDropdown.tsx",
-                            lineNumber: 71,
+                            lineNumber: 67,
                             columnNumber: 10
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
                             className: "sm:hidden",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$NavItems$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                                 fileName: "[project]/components/userDropdown.tsx",
-                                lineNumber: 73,
+                                lineNumber: 69,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/components/userDropdown.tsx",
-                            lineNumber: 72,
+                            lineNumber: 68,
                             columnNumber: 10
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/userDropdown.tsx",
-                    lineNumber: 50,
+                    lineNumber: 46,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             ]
         }, void 0, true, {
             fileName: "[project]/components/userDropdown.tsx",
-            lineNumber: 31,
+            lineNumber: 27,
             columnNumber: 7
         }, ("TURBOPACK compile-time value", void 0))
     }, void 0, false, {
         fileName: "[project]/components/userDropdown.tsx",
-        lineNumber: 30,
+        lineNumber: 26,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
