@@ -34,7 +34,8 @@ preferredIndustry: 'Technology',
   const onSubmit = async(data : SignUpFormData) => {
     try{
       const result = await singUpWithEmailFunction(data);
-      if(result.succes){
+      console.log('Sign up result:', result);
+      if(result.success){
         router.push('/')
       }
     }

@@ -13,7 +13,7 @@ const InputField = ({name, label, placeholder, register, error, validation, type
         id={name}
         placeholder={placeholder}
         disabled={disabled}
-        {...register(name, validation)}   // <-- Correct place
+        {...register(name, validation)}   
         className={cn(
           'form-input',
           {
