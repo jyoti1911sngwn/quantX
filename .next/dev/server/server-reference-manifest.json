@@ -1,11 +1,11 @@
 {
   "node": {
-    "7ff6340b425bf9956470ee11f472830a0609cd0a7b": {
+    "4087a03177847e2caeb3f7a475de73e135aad512f8": {
       "workers": {
         "app/(auth)/sign-in/page": {
           "moduleId": "[project]/.next-internal/server/app/(auth)/sign-in/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
           "async": true,
-          "exportedName": "signInWithEmailFunction",
+          "exportedName": "signInWithEmail",
           "filename": "lib/actions/auth.actions.ts"
         }
       },
@@ -13,7 +13,37 @@
         "app/(auth)/sign-in/page": "action-browser"
       },
       "filename": "lib/actions/auth.actions.ts",
-      "exportedName": "signInWithEmailFunction"
+      "exportedName": "signInWithEmail"
+    },
+    "7fe852dd04f8fc5167e7e1942721b0612d844362f6": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true,
+          "exportedName": "signOut",
+          "filename": "lib/actions/auth.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(root)/page": "action-browser"
+      },
+      "filename": "lib/actions/auth.actions.ts",
+      "exportedName": "signOut"
+    },
+    "7fd02be2696ca5ada9f734eab964dccb96a0dd1bec": {
+      "workers": {
+        "app/(auth)/sign-up/page": {
+          "moduleId": "[project]/.next-internal/server/app/(auth)/sign-up/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions/auth.actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": true,
+          "exportedName": "singUpWithEmailFunction",
+          "filename": "lib/actions/auth.actions.ts"
+        }
+      },
+      "layer": {
+        "app/(auth)/sign-up/page": "action-browser"
+      },
+      "filename": "lib/actions/auth.actions.ts",
+      "exportedName": "singUpWithEmailFunction"
     }
   },
   "edge": {},
