@@ -814,6 +814,10 @@
     translate: var(--tw-translate-x) var(--tw-translate-y);
   }
 
+  .animate-spin {
+    animation: var(--animate-spin);
+  }
+
   .cursor-default {
     cursor: default;
   }
@@ -942,6 +946,10 @@
 
   .border-input {
     border-color: var(--input);
+  }
+
+  .border-red-500 {
+    border-color: var(--color-red-500);
   }
 
   .bg-background {

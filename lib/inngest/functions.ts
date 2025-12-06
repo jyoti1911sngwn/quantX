@@ -1,6 +1,6 @@
-import { success } from "better-auth";
 import { inngest } from "./client";
 import { PERSONALIZED_WELCOME_EMAIL_PROMPT } from "./prompts";
+import { sendWelcomeEmail } from "../nodemailer";
 
 export const sendSignUpEmail = inngest.createFunction(
   { id: "sign-up-email" },
@@ -31,7 +31,10 @@ export const sendSignUpEmail = inngest.createFunction(
      const introText = (part && 'text' in part ? part.text : "Welcome to our platform!") || 'Thank you for signing up.';
 
      // Sending email logic here (e.g., using an nodemailer service)
-
+     const {data: {email , name}} = event;
+      return await sendWelcomeEmail({
+        email, name, intro : introText
+      })
     });
     return {
         success: true,

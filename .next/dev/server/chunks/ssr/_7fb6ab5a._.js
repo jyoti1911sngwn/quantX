@@ -123,7 +123,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$utils$2e$ts__$5b$app$
 ;
 ;
 ;
-const InputField = ({ name, label, placeholder, register, error, validation, type, disabled, value })=>{
+const InputField = ({ name, label, placeholder, register, error, validation, type, disabled })=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         className: "space-y-2",
         children: [
@@ -134,23 +134,30 @@ const InputField = ({ name, label, placeholder, register, error, validation, typ
             }, void 0, false, {
                 fileName: "[project]/components/forms/InputField.tsx",
                 lineNumber: 9,
-                columnNumber: 9
+                columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Input"], {
                 type: type,
                 id: name,
                 placeholder: placeholder,
                 disabled: disabled,
-                value: value,
+                ...register(name, validation),
                 className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$utils$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["cn"])('form-input', {
-                    'opcaity-50 cursor-not-allowed': disabled
-                }, {
-                    ...register(name, validation)
+                    'opacity-50 cursor-not-allowed': disabled,
+                    'border-red-500': error
                 })
             }, void 0, false, {
                 fileName: "[project]/components/forms/InputField.tsx",
-                lineNumber: 10,
-                columnNumber: 9
+                lineNumber: 11,
+                columnNumber: 7
+            }, ("TURBOPACK compile-time value", void 0)),
+            error && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                className: "text-sm text-red-500",
+                children: error.message
+            }, void 0, false, {
+                fileName: "[project]/components/forms/InputField.tsx",
+                lineNumber: 26,
+                columnNumber: 17
             }, ("TURBOPACK compile-time value", void 0))
         ]
     }, void 0, true, {
