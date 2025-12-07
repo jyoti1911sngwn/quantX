@@ -2,6 +2,5 @@
   "/(auth)/sign-in/page": "app/(auth)/sign-in/page.js",
   "/(auth)/sign-up/page": "app/(auth)/sign-up/page.js",
   "/(root)/page": "app/(root)/page.js",
-  "/_not-found/page": "app/_not-found/page.js",
   "/api/inngest/route": "app/api/inngest/route.js"
 }

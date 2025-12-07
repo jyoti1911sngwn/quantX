@@ -210,13 +210,13 @@ export const sendDailyNewsSummary = inngest.createFunction(
             try {
               await emailSummaryEmail({
                 email,
-                name: name || "Investor",
                 date: new Date().toLocaleDateString("en-US", {
                   year: "numeric",
                   month: "long",
                   day: "numeric",
                 }),
-                summary, // this is the AI-generated summary text
+
+                newsContent: summary, 
               });
 
               console.log(`Daily news email sent successfully to ${email}`);
