@@ -1,7 +1,7 @@
 'use server';
 
 const FINNHUB_BASE_URL = 'https://finnhub.io/api/v1';
-const FINNHUB_API_KEY = process.env.NEXT_PUBLIC_FINNHUB_API_KEY || '';
+const FINNHUB_API_KEY = process.env.FINNHUB_API_KEY || '';
 
 interface FinnhubArticle {
   id?: string;
@@ -40,7 +40,6 @@ async function fetchJSON<T>(url: string, revalidateSeconds?: number): Promise<T>
     }
 
     const response = await fetch(url, fetchOptions);
-
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}: ${response.statusText}`);
     }
