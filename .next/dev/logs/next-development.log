@@ -931,3 +931,5874 @@ Import trace:
 [00:57:46.120] Server  LOG        Reload env: .env
 [00:57:51.635] Browser LOG     {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
 [00:57:51.635] Browser LOG     [2;38;2;124;124;124m%s[0m {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[10:46:41.582] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:46:42.338] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:46:42.338] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:46:42.338] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:46:42.338] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:46:47.097] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:46:48.168] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:46:52.130] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:46:53.252] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:46:57.160] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:46:58.157] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:47:02.222] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:47:03.164] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:47:07.271] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:47:08.249] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:47:12.309] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:47:13.158] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:47:17.371] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:47:18.454] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:47:22.436] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:47:24.437] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:47:27.574] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:47:28.162] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:47:32.626] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:47:33.172] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:47:37.720] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:47:38.224] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:47:42.765] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:47:43.267] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:47:47.824] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:47:48.158] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:47:52.874] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:47:55.456] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:47:57.944] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:48:01.257] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:48:03.028] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:48:04.709] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:48:08.099] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:48:13.138] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:48:18.178] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:48:23.218] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:48:28.264] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:48:33.314] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:48:38.345] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:48:43.381] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:48:48.410] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:48:53.438] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:48:56.900] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:48:56.900] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:48:56.900] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:48:56.900] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:48:56.900] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:48:56.900] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:48:56.900] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:48:56.900] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:48:56.900] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:48:56.900] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:48:58.495] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:48:59.650] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:49:03.544] Server  ERROR    ⨯ ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:49:47.162] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:49:47.162] Browser ERROR   ./lib/nodemailer/index.ts:34:45
+Parsing ecmascript source code failed
+  32 |         html : htmlTemplate,}
+  33 |
+> 34 |     await transporter.sendMail(mailOptions);
+     |                                             ^
+  35 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  App Route:
+    ./lib/nodemailer/index.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:51:04.204] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:51:06.266] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:51:06.266] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:51:09.279] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:51:10.561] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:51:10.561] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:51:14.335] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:51:15.273] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:51:15.273] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:51:19.366] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:51:20.158] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:51:20.158] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:51:24.392] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:51:25.159] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:51:25.159] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:51:29.440] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:51:30.174] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:51:30.174] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:51:34.490] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:51:35.199] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:51:35.199] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:51:39.531] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:51:44.566] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:51:49.597] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:51:54.645] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:51:59.683] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:52:04.744] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:52:09.778] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:52:14.849] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:52:20.013] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:52:25.100] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:52:30.129] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:52:35.157] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:52:40.201] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:52:45.250] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:52:50.317] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:52:55.605] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:53:00.648] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:53:05.732] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:53:10.782] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:53:15.375] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.375] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.375] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.375] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.375] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.375] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.375] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.375] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.376] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:15.811] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:53:16.303] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:16.304] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:20.838] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:53:25.870] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:53:30.266] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:30.266] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:30.266] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:30.266] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:30.900] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:53:32.165] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:32.165] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:35.946] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:53:36.161] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:36.161] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:40.972] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:53:45.751] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:45.751] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:46.011] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:53:47.253] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:47.253] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:51.094] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:53:53.050] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:53.050] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:56.123] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:53:57.257] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:53:57.257] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:54:01.155] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:54:04.251] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:54:04.251] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:54:06.180] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:54:07.953] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:54:07.953] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:54:11.212] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:54:16.245] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:54:21.288] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:54:26.380] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:54:31.407] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:54:36.445] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:54:41.477] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:54:46.510] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:54:51.539] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:54:56.588] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:55:01.695] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:55:06.785] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:55:12.015] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:55:17.114] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:55:22.155] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:55:27.207] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:55:32.254] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:55:37.408] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:55:42.441] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:55:47.482] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:49.163] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:52.528] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:55:53.956] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:53.956] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:55:57.598] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:56:02.741] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:56:07.806] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:56:12.843] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:56:17.924] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:56:22.987] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:56:28.033] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:56:33.159] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:56:38.195] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:56:43.236] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:56:48.290] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:56:53.390] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:56:58.414] Server  ERROR    ⨯ ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+
+./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts:180:1
+Parsing ecmascript source code failed
+  178 |     
+  179 |   }
+> 180 | );
+      | ^
+  181 |
+
+Expected a semicolon
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[10:57:11.159] Browser ERROR   ./lib/inngest/functions.ts
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+
+Caused by:
+- CJS module can't be async.
+
+Debug info:
+- An error occurred while generating the chunk item [project]/lib/inngest/functions.ts [app-route] (ecmascript)
+- Execution of <ModuleChunkItem as EcmascriptChunkItem>::content_with_async_module_info failed
+- Execution of EcmascriptChunkItemContent::new failed
+- CJS module can't be async.
+
+Import trace:
+  App Route:
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+[11:16:53.136] Server  LOG     {} "user in dropdown"
+[11:16:54.828] Browser LOG     {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[11:16:54.828] Browser LOG     [2;38;2;124;124;124m%s[0m {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[11:16:54.828] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[11:17:09.844] Server  LOG      ○ Compiling /sign-in ...
+[11:17:37.924] Browser LOG     {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[11:17:37.924] Browser LOG     [2;38;2;124;124;124m%s[0m {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[11:31:50.121] Server  LOG        Reload env: .env
+[11:31:55.935] Server  LOG      ✓ Compiled in 4.6s
+[11:31:59.116] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[11:32:00.959] Server  LOG     {} "user in dropdown"
+[11:32:04.189] Browser LOG     {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[11:32:04.189] Browser LOG     [2;38;2;124;124;124m%s[0m {"email":"sangwanjyoti717@gmail.com","id":"6933f234740c26e507b615fa","name":"Jyoti Sangwan"} user in dropdown
+[11:32:04.189] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[11:33:08.810] Server  LOG      ○ Compiling /sign-up ...
+[11:33:15.271] Browser WARN    Image with src "http://localhost:3000/assets/icons/logo.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[11:34:22.229] Server  LOG     Signing up user: "Jyoti01 Sangwan"
+[11:34:25.754] Browser LOG     Sign up result: {"data":{"token":"yu79tCRQ8Cb7HuSHxjzXqdWaK9lEUGRI","user":{"createdAt":"2025-12-07T02:20:28.851Z","email":"jyotisngwn91@gmail.com","emailVerified":false,"id":"6934e46cc024fb86a1cdeedc","name":"Jyoti01 Sangwan","updatedAt":"2025-12-07T02:20:28.851Z"}},"succes":true}
+[11:34:30.206] Server  ERROR   Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-bf6a2746f95sm8686504a12.30 - gsmtp
+[11:34:46.239] Server  LOG     Signing up user: "Jyoti01 Sangwan"
+[11:34:46.334] Server  LOG     APIError: User already exists. Use another email.
+[11:34:46.450] Browser LOG     Sign up result: {"message":"Sign up failed","success":false}
+[11:35:11.375] Server  ERROR   Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29dae4d3934sm85070955ad.24 - gsmtp
+[11:35:46.798] Browser LOG     {"email":"jyotisngwn91@gmail.com","id":"6934e46cc024fb86a1cdeedc","name":"Jyoti01 Sangwan"} user in dropdown
+[11:35:46.799] Browser LOG     [2;38;2;124;124;124m%s[0m {"email":"jyotisngwn91@gmail.com","id":"6934e46cc024fb86a1cdeedc","name":"Jyoti01 Sangwan"} user in dropdown
+[11:35:46.799] Browser LOG     {"email":"jyotisngwn91@gmail.com","id":"6934e46cc024fb86a1cdeedc","name":"Jyoti01 Sangwan"} user in dropdown
+[11:35:46.799] Browser LOG     [2;38;2;124;124;124m%s[0m {"email":"jyotisngwn91@gmail.com","id":"6934e46cc024fb86a1cdeedc","name":"Jyoti01 Sangwan"} user in dropdown
+[11:35:47.512] Server  ERROR   Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-29dae99f6a9sm87244975ad.65 - gsmtp
+[11:37:05.137] Server  ERROR   Error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-bf6871f4d95sm8264910a12.14 - gsmtp
