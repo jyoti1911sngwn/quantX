@@ -7,7 +7,6 @@ import { emailSummaryEmail, sendWelcomeEmail } from "../nodemailer";
 import { getAllUsersForNewsEmail } from "../actions/user.actions";
 import { getWatchlistSymbolsByEmail } from "../actions/watchlist.actions";
 import { getNews } from "../actions/finnhub.actions";
-import { email } from "better-auth";
 
 export const sendSignUpEmail = inngest.createFunction(
   { id: "sign-up-email" },
@@ -210,13 +209,12 @@ export const sendDailyNewsSummary = inngest.createFunction(
             try {
               await emailSummaryEmail({
                 email,
-                name: name || "Investor",
                 date: new Date().toLocaleDateString("en-US", {
                   year: "numeric",
                   month: "long",
                   day: "numeric",
                 }),
-                summary, // this is the AI-generated summary text
+                newsContent: summary, // this is the AI-generated summary text
               });
 
               console.log(`Daily news email sent successfully to ${email}`);

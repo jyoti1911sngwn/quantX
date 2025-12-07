@@ -22,3 +22,224 @@ Import trace:
     ./app/api/inngest/route.ts
 
 
+[00:00:12.764] Server  LOG      ○ Compiling /_error ...
+[00:00:16.612] Server  ERROR    ⨯ ./lib/better-auth/auth.ts:5:1
+Export nextCookies doesn't exist in target module
+  3 | import { MongoClient } from "mongodb";
+  4 | import { connectToDatabase } from "@/database/mongoose";
+> 5 | import { nextCookies } from "better-auth/next-js";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | let authInstance: ReturnType<typeof betterAuth> | null = null;
+  8 |
+
+The export nextCookies was not found in module [project]/node_modules/better-auth/dist/next-js.js [app-route] (ecmascript).
+Did you mean to import authMiddleware?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  App Route:
+    ./lib/better-auth/auth.ts
+    ./lib/actions/watchlist.actions.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:00:21.695] Server  ERROR    ⨯ ./lib/better-auth/auth.ts:5:1
+Export nextCookies doesn't exist in target module
+  3 | import { MongoClient } from "mongodb";
+  4 | import { connectToDatabase } from "@/database/mongoose";
+> 5 | import { nextCookies } from "better-auth/next-js";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | let authInstance: ReturnType<typeof betterAuth> | null = null;
+  8 |
+
+The export nextCookies was not found in module [project]/node_modules/better-auth/dist/next-js.js [app-route] (ecmascript).
+Did you mean to import authMiddleware?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  App Route:
+    ./lib/better-auth/auth.ts
+    ./lib/actions/watchlist.actions.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:00:26.783] Server  ERROR    ⨯ ./lib/better-auth/auth.ts:5:1
+Export nextCookies doesn't exist in target module
+  3 | import { MongoClient } from "mongodb";
+  4 | import { connectToDatabase } from "@/database/mongoose";
+> 5 | import { nextCookies } from "better-auth/next-js";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | let authInstance: ReturnType<typeof betterAuth> | null = null;
+  8 |
+
+The export nextCookies was not found in module [project]/node_modules/better-auth/dist/next-js.js [app-route] (ecmascript).
+Did you mean to import authMiddleware?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  App Route:
+    ./lib/better-auth/auth.ts
+    ./lib/actions/watchlist.actions.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:00:31.874] Server  ERROR    ⨯ ./lib/better-auth/auth.ts:5:1
+Export nextCookies doesn't exist in target module
+  3 | import { MongoClient } from "mongodb";
+  4 | import { connectToDatabase } from "@/database/mongoose";
+> 5 | import { nextCookies } from "better-auth/next-js";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | let authInstance: ReturnType<typeof betterAuth> | null = null;
+  8 |
+
+The export nextCookies was not found in module [project]/node_modules/better-auth/dist/next-js.js [app-route] (ecmascript).
+Did you mean to import authMiddleware?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  App Route:
+    ./lib/better-auth/auth.ts
+    ./lib/actions/watchlist.actions.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:00:36.965] Server  ERROR    ⨯ ./lib/better-auth/auth.ts:5:1
+Export nextCookies doesn't exist in target module
+  3 | import { MongoClient } from "mongodb";
+  4 | import { connectToDatabase } from "@/database/mongoose";
+> 5 | import { nextCookies } from "better-auth/next-js";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | let authInstance: ReturnType<typeof betterAuth> | null = null;
+  8 |
+
+The export nextCookies was not found in module [project]/node_modules/better-auth/dist/next-js.js [app-route] (ecmascript).
+Did you mean to import authMiddleware?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  App Route:
+    ./lib/better-auth/auth.ts
+    ./lib/actions/watchlist.actions.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:00:39.940] Server  ERROR    ⨯ ./lib/better-auth/auth.ts:5:1
+Export nextCookies doesn't exist in target module
+  3 | import { MongoClient } from "mongodb";
+  4 | import { connectToDatabase } from "@/database/mongoose";
+> 5 | import { nextCookies } from "better-auth/next-js";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | let authInstance: ReturnType<typeof betterAuth> | null = null;
+  8 |
+
+The export nextCookies was not found in module [project]/node_modules/better-auth/dist/next-js.js [app-route] (ecmascript).
+Did you mean to import authMiddleware?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  App Route:
+    ./lib/better-auth/auth.ts
+    ./lib/actions/watchlist.actions.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:00:42.007] Server  ERROR    ⨯ ./lib/better-auth/auth.ts:5:1
+Export nextCookies doesn't exist in target module
+  3 | import { MongoClient } from "mongodb";
+  4 | import { connectToDatabase } from "@/database/mongoose";
+> 5 | import { nextCookies } from "better-auth/next-js";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | let authInstance: ReturnType<typeof betterAuth> | null = null;
+  8 |
+
+The export nextCookies was not found in module [project]/node_modules/better-auth/dist/next-js.js [app-route] (ecmascript).
+Did you mean to import authMiddleware?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  App Route:
+    ./lib/better-auth/auth.ts
+    ./lib/actions/watchlist.actions.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:00:42.537] Server  ERROR    ⨯ ./lib/better-auth/auth.ts:5:1
+Export nextCookies doesn't exist in target module
+  3 | import { MongoClient } from "mongodb";
+  4 | import { connectToDatabase } from "@/database/mongoose";
+> 5 | import { nextCookies } from "better-auth/next-js";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | let authInstance: ReturnType<typeof betterAuth> | null = null;
+  8 |
+
+The export nextCookies was not found in module [project]/node_modules/better-auth/dist/next-js.js [app-route] (ecmascript).
+Did you mean to import authMiddleware?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  App Route:
+    ./lib/better-auth/auth.ts
+    ./lib/actions/watchlist.actions.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:00:47.048] Server  ERROR    ⨯ ./lib/better-auth/auth.ts:5:1
+Export nextCookies doesn't exist in target module
+  3 | import { MongoClient } from "mongodb";
+  4 | import { connectToDatabase } from "@/database/mongoose";
+> 5 | import { nextCookies } from "better-auth/next-js";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | let authInstance: ReturnType<typeof betterAuth> | null = null;
+  8 |
+
+The export nextCookies was not found in module [project]/node_modules/better-auth/dist/next-js.js [app-route] (ecmascript).
+Did you mean to import authMiddleware?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  App Route:
+    ./lib/better-auth/auth.ts
+    ./lib/actions/watchlist.actions.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
+[00:00:52.174] Server  ERROR    ⨯ ./lib/better-auth/auth.ts:5:1
+Export nextCookies doesn't exist in target module
+  3 | import { MongoClient } from "mongodb";
+  4 | import { connectToDatabase } from "@/database/mongoose";
+> 5 | import { nextCookies } from "better-auth/next-js";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | let authInstance: ReturnType<typeof betterAuth> | null = null;
+  8 |
+
+The export nextCookies was not found in module [project]/node_modules/better-auth/dist/next-js.js [app-route] (ecmascript).
+Did you mean to import authMiddleware?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import trace:
+  App Route:
+    ./lib/better-auth/auth.ts
+    ./lib/actions/watchlist.actions.ts
+    ./lib/inngest/functions.ts
+    ./app/api/inngest/route.ts
+
+
