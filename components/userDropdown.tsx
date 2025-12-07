@@ -17,9 +17,6 @@ import { signOut } from "@/lib/actions/auth.actions";
 
 const userDropdown = ({user} : {user: User}) => {
   const router = useRouter();
-  const handleSignOut = async () => {
-    router.push("/sign-in");
-  };
   const handleSignout = async () => {
     await signOut();
     router.push("/sign-in");

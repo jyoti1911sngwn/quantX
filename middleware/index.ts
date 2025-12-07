@@ -1,19 +1,23 @@
-import { NextRequest, NextResponse } from 'next/server';
-import { getSessionCookie } from "better-auth/cookies";
+import { NextResponse } from 'next/server';
+import type { NextRequest } from 'next/server';
 
-export async function middleware(request: NextRequest) {
-const sessionCookie = getSessionCookie(request);
+export async function middleware(req: NextRequest) {
+  // Read the Better-Auth session cookie directly
+  const sessionCookie = req.cookies.get('better-auth.session_token')?.value;
 
- // Check cookie presence - prevents obviously unauthorized users
-  if (!sessionCookie) {
-    return NextResponse.redirect(new URL('/sign-in', request.url));
+  // If no session and accessing protected route, redirect to sign-in
+  if (!sessionCookie && req.nextUrl.pathname !== '/sign-in') {
+    return NextResponse.redirect(new URL('/sign-in', req.url));
+  }
+
+  // If session exists and user tries to access /sign-in, redirect to dashboard
+  if (sessionCookie && req.nextUrl.pathname === '/sign-in') {
+    return NextResponse.redirect(new URL('/', req.url));
   }
 
   return NextResponse.next();
 }
 
 export const config = {
-  matcher: [
-    '/((?!api|_next/static|_next/image|favicon.ico|sign-in|sign-up|assets).*)',
-  ],
+  matcher: ['/((?!api|_next|favicon.ico).*)'], // protect all pages except API/_next
 };
